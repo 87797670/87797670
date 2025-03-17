@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is the site where I will collect and publish details of how I built out my HomeLab.
+
 <!--
 **87797670/87797670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
