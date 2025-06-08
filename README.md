@@ -1,6 +1,22 @@
-## Hi there 👋
+## Hello 👋
 
-This is the site where I will collect and publish details of how I built out my HomeLab.
+This site collects a bunch of info related to what I learn as I build and maintain my HomeLab.
+
+### Hardware
+
+1x TuringPi2
+4x Turing RK1 SoM
+4x NVMe (one per RK1)
+1x SSD (connected to the Node 3 SATA controller on the TuringPi2)
+
+### Software
+
+Talos (min ver 1.10.x to allow partitioning/sharing of the single NVMe drive for SYSTEM and DATA)
+Kubernetes managed by Flux through a private Repo on GitHub
+
+
+
+
 
 <!--
 **87797670/87797670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
